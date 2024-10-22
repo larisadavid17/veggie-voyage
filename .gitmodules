@@ -1,0 +1,3 @@
+[submodule "resources/views/frontend-template"]
+path = resources/views/frontend-template
+url = https://github.com/larisadavid17/veggie-voyage.git
